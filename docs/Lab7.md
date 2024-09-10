@@ -1,4 +1,4 @@
-# Lab 6: Motion Planning
+# Lab 7: Motion Planning
 
 ## I. Learning Goals
 
